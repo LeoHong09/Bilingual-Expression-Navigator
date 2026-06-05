@@ -31,10 +31,8 @@ An interactive ESL learning web app that bridges Korean and English expressions 
 ---
 
 ## 5. Key Features
-![Filter feature](Filter.png)
 * **Categorized Dataset:** Every entry includes Category (Idiom/Non-idiom), Meaning in Context, Literal English Translation, English Equivalent, Level of Match, Contextual Sentences, and Hints.
 * **Core Learning Flow:** A master-detail interface featuring searchable, filterable expressions categorized by match levels, complete with self-prediction fields, hint triggers, and confidence self-evaluations.
-![Learning page](learning page.png)
 * **"Practice in Context" Mode:** A dedicated menu where learners review expressions within an interactive, fill-in-the-blank sentence framework to master practical application.
 * **"Quiz" Mode:** A dynamic multiple-choice testing feature allowing learners to quiz themselves on Korean-English expression pairs and instantly validate their answers.
 
