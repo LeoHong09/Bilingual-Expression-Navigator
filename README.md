@@ -58,4 +58,12 @@ An interactive ESL learning web app that bridges Korean and English expressions 
 * Implement use progress tracking
 * Expand expression dataset
 * Add audio pronunciation feature
+
+---
+
+## 9. Development History
+
+* **Version 1.0:** Established the foundational learning flow with expression **Filtering** and the **Self-prediction** framework to stimulate active recall.
+* **Version 2.0:** Introduced the **"Practice in Context"** mode, enabling learners to review and type expressions within real-world sentence structures.
+* **Version 3.0 (Current):** Added the **"Quiz" Mode** to provide instant answer validation and multiple-choice testing.
   
